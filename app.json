@@ -1,0 +1,8 @@
+{
+    "name"        : "ReactNativeTemplate",
+    "displayName" : "ReactNativeTemplate",
+    "api"         : {
+        "path": "https://free.currencyconverterapi.com/api/v6/",
+        "key" : "a536daa3b47457cc4d0e"
+    }
+}
